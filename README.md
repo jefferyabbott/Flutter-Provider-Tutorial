@@ -1,17 +1,9 @@
-# state_example
+# State Example
+## Flutter Provider Demo
 
-A new Flutter project.
+This is the source code for my [YouTube tutorial](https://youtu.be/S66mknjiMsY) that explains how to use Provider in an iOS/Android Flutter app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![ProviderDemo](https://www.dropbox.com/scl/fi/yz642e5l6dvwrcjo2w9cb/providerdemo.png?rlkey=0p6laoj38mq1jfs8dzjce89k5&st=g0njem4n&raw=1)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Provider-Tutorial
